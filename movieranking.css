@@ -1,0 +1,6 @@
+img {
+    height: 400px; width: 300px;
+}
+ol[draggable] {
+    color: rgb(34, 10, 248);
+}
